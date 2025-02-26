@@ -18,7 +18,7 @@ One major challenge in diffusion-based lip sync methods is maintaining temporal 
       <img src="https://raw.githubusercontent.com/Saif-Ustad/LipSync/main/assets/generated_inputs_for_model/Input_Image_1.png" width="300">
     </td>
     <td>
-      <video src="https://raw.githubusercontent.com/Saif-Ustad/LipSync/main/generatedOutput/video_out7.mp4" controls preload></video>
+      <video src="https://github.com/user-attachments/assets/b6b74890-1fdc-476b-bdc3-b1a393e6722a" controls preload></video>
     </td>
   </tr>
 </table>
