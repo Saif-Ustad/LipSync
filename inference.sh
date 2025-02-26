@@ -7,7 +7,7 @@ python -m scripts.inference \
     --guidance_scale 1.5 \
     --video_path "assets/generated_inputs_for_model/input_video1.mp4" \
     --audio_path "assets/generated_inputs_for_model/best_audio.wav" \
-    --video_out_path "generatedOuput/video_out7.mp4"
+    --video_out_path "video_out7.mp4"
 
 
 

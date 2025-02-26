@@ -32,14 +32,14 @@ wandb/
 *.pt
 
 # data files
-*.mp4
-*.avi
-*.wav
-*.png
-*.jpg
-*.jpeg
-*.csv
+# *.mp4
+# *.avi
+# *.wav
+# *.png
+# *.jpg
+# *.jpeg
+# *.csv
 
 !/latentsync/utils/mask.png
 /checkpoints/
-!/assets/*
+# !/assets/*
